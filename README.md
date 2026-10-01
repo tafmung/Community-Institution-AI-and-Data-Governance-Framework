@@ -1,5 +1,5 @@
 # Community-Institution-AI-and-Data-Governance-Framework
-Version 0.1, public draft for comment. Author Admore Tafadzwa Mungwadzi'
+Version 0.1, public draft for comment. **Author Admore Mungwadzi**
 # 1. Purpose and scope
 This Framework gives U.S. community banks and credit unions a practical, right-sized way to govern artificial intelligence and the data that feeds it. It turns high-level standards into specific controls that a small risk or IT team can put in place in about 90 days.
 # Who it is for
